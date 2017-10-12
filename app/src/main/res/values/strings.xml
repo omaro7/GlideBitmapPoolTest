@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GlideBitmapPoolTest</string>
+
+    <!-- 실시간 권한 설정 -->
+    <string name="app_finish">종료</string>
+    <string name="app_permission">권한부여</string>
+    <string name="permission_title"><![CDATA["Storecamera의 사용 권한을 허용합니다."]]></string>
+    <string name="permission_read_phone_state"><![CDATA["<b><big>READ PHONE STATE</big></b><br>앱 사용 현황 체크를 위한 디바이스 고유값 확인허가"]]></string>
+    <string name="permission_camera_only"><![CDATA["<b><big>CAMERA</big></b><br>카메라 촬영을 위한 권한"]]></string>
+    <string name="permission_camera_storage"><![CDATA["<b><big>CAMERA</big></b></b><br>스토어카메라 촬영에 필요한 카메라 권한을 사용할 수 있습니다.</font><br><br><b>STORAGE</b><br>촬영 이미지를 저장 및 불러오기 위한 권한"]]></string>
+    <string name="permission_storage"><![CDATA["<b><big>STORAGE</big></b><br>촬영 이미지를 저장 및 불러오기 위한 권한"]]></string>
+
 </resources>
